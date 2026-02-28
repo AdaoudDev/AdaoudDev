@@ -1,5 +1,5 @@
-# Hello, I'm Dodi (Ahmad Daoud)!
-# [Version française!](https://github.com/DodiBTW/DodiBTW/blob/main/README.fr.md)
+# Hello, I'm Ahmad Daoud!
+# [Version française!](https://github.com/AdaoudDev/AdaoudDev/blob/main/README.fr.md)
 ## Who am I?
 - I am a **developer** and **enthusiast** of the IT world!
 - I have a bachelor's degree in IT, and i'm currently studying medicine.
