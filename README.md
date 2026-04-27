@@ -4,11 +4,6 @@
 - I am a **developer** and **enthusiast** of the IT world!
 - I have a bachelor's degree in IT/software engineering.
 
-## 📈 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DodiBTW&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DodiBTW&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DodiBTW&theme=dark)
-
 
 ## My skills
 - **C#** and **.NET**🔧 for backend applications or services (API)
