@@ -12,10 +12,10 @@
 - **Docker**🐳 for all my projects
 - **Linux**🐧 to host my services, including my **portfolio** and [Revisia](https://revisia.adaoud.dev)
 ## My experience💼
-- I have completed several internships and projects developing websites in PHP, writing data formalisation in python and most importantly developping .NET APIs
+- I have completed several internships and projects like migrating an ERP using SQL and python data formalisation, and am now working as an internal developper overseeing application development at a holding, working on different companies' needs in different domains
 - I have also dabbled in a few fun languages like Rust, Gleam and F#. One of my favorite rust projects was my [Rust blockchain](https://github.com/DodiBTW/Rust-Blockchain)
 ## My education🎓
-- I followed a 3 year bachelor's degree in software architecture and am now studying to be an HPC professional.
+- I followed a 3 year bachelor's degree in software architecture and continuing a 2 year's master in this same path.
 
 ## Contact me
 If you want to contact me, I am available at contact@adaoud.dev 📧
